@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f1WCaztkg0fJt/WAmIrjwVcHangH950GDHnyPNx2seI=",
+  "Hash": "BCBY6I2Ei7fyZ6j2Un4ZV0ic7QzIZydZsYUkqciWui4=",
   "Source": "MacDonnaldsWeb",
   "BasePath": "_content/MacDonnaldsWeb",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\community_1.jpg",
+      "SourceId": "MacDonnaldsWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\",
+      "BasePath": "_content/MacDonnaldsWeb",
+      "RelativePath": "Images/community_1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\community_1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\community_2.jpg",
+      "SourceId": "MacDonnaldsWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\",
+      "BasePath": "_content/MacDonnaldsWeb",
+      "RelativePath": "Images/community_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\community_2.jpg"
     },
     {
       "Identity": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\deal_1.png",
