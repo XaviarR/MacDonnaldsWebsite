@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\MacDonnaldsWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\deal_1.png",
+      "PackagePath": "staticwebassets\\Images\\deal_1.png"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\deal_2.png",
+      "PackagePath": "staticwebassets\\Images\\deal_2.png"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\deal_3.webp",
+      "PackagePath": "staticwebassets\\Images\\deal_3.webp"
+    },
+    {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
