@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\MacDonnaldsWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\FaceBook_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\FaceBook_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\Intagram_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\Intagram_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\YouTube_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\YouTube_Logo.png"
+    },
+    {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\MacDonnaldsWebsite\\MacDonnaldsWeb\\wwwroot\\Images\\community_1.jpg",
       "PackagePath": "staticwebassets\\Images\\community_1.jpg"
     },
